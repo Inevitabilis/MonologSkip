@@ -1,0 +1,9 @@
+*.suo
+Source/bin*
+Source/obj*
+*.zip
+bin*
+obj*
+*.dll
+*.lock
+*.vsidx
